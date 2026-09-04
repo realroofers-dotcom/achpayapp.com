@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://achpayapp.com/sitemap.xml
